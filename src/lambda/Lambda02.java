@@ -24,6 +24,9 @@ public class Lambda02 {
         minBul(sayi);
         System.out.println("\n  ***  ");
         bestenBykEnKck(sayi);
+        ciftKareKbPrint(sayi);
+        System.out.println("\n  ***  ");
+        tekKareBkPrint(sayi);
 
     }
     // Task : Functional Programming ile listin cift elemanlarinin  karelerini ayni satirda aralarina bosluk bırakarak print ediniz
